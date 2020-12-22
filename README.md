@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# About Me
+## About Me
 I am an 18 year old Software Developer based in the Greater Toronto Area, aiming to change the world via code!
 
 #### What I'm Currently working on ...
