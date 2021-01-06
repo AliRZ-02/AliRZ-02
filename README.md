@@ -18,6 +18,10 @@ I am an 18 year old Software Developer based in the Greater Toronto Area, aiming
 - A copy of my Resume is available [here](https://github.com/AliRZ-02/AliRZ-02/blob/main/Zaidi%2CAliRaza-Resume.pdf)!
 - I can be reached on [Linkedin](https://www.linkedin.com/in/ali-raza-zaidi/)!
 
+### Personal
+- Thanks for getting all the way here! Here are just some of hobbies!
+- Hockey, Basketball, Volleyball, Zelda BOTW, and many more! 😄
+
 <!--
 **AliRZ-02/AliRZ-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
