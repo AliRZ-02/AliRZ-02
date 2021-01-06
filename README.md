@@ -4,8 +4,7 @@
 I am an 18 year old Software Developer based in the Greater Toronto Area, aiming to change the world via code!
 
 #### What I'm Currently working on ...
-- I've been working on developing my own website to showcase my personal projects and of the like.
-- I've also been working to create a local, open-source password manager that sits entirely in the confines of your own machine.
+- I've been working on developing a website that uses machine-learning models to predict the future contracts of NHL players based on their stats from the previous season
 
 #### I'm currently learning ...
 - I've currently been learning to work with machine learning with Python.
