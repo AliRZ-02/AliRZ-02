@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-I am an 18 year old Software Developer based in the Greater Toronto Area, aiming to change the world via code!
+I am an 18 year old Software Developer based in the Greater Toronto Area, aiming to change the world via code! I'm extremely passionate about data science and machine learning, especially with respect to their applications in the sports analytics world.
 
 #### What I'm Currently working on ...
 - I've been working on developing a website that uses machine-learning models to predict the future contracts of NHL players based on their stats from the previous season
