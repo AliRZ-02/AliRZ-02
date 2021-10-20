@@ -15,7 +15,7 @@ I'm an 18 year old Software Developer based in the Greater Toronto Area, aiming 
 - Many of my projects are visible here on Github. Check out my repositories for more!
 
 #### Oppurtunities
-- I am currently open to oppurtunities in the 2022 Fall Session (Jan - Apr), in either the software development or data analytics fields.  
+- I am currently open to oppurtunities in the 2022 Fall Session (Sep - Dec), in either the software development or data analytics fields.  
 - A copy of my Resume is available [here](https://github.com/AliRZ-02/AliRZ-02/blob/main/Zaidi%2CAliRazaResumeSeptember18-V2.pdf)! - You'll have to download the file to be able to click the links.
 - I can be reached on [Linkedin](https://www.linkedin.com/in/ali-raza-zaidi/)!
 
