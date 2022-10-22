@@ -1,10 +1,11 @@
 # Hi there 👋
 
 ## About Me
-I'm an 18 year old Software Developer based in the Greater Toronto Area, aiming to change the world via code! I'm extremely passionate about data science and machine learning, especially with respect to their applications in the sports analytics world.
+I'm a passionate Software Developer based in the Greater Toronto Area, aiming to change the world via code! I'm extremely passionate about data science and machine learning, especially with respect to their applications in the sports analytics world.
 
 #### What I'm Currently working on ...
-- I've been working on creating a personal website to display my work!
+- Completing my Co-op term as a Global Markets Software Engineer at BMO Capital Markets!
+- Refactoring older projects to improve their speed and efficiency
 
 #### I'm currently learning ...
 - I've currently been learning to work with machine learning with Python.
