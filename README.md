@@ -4,7 +4,7 @@
 I'm a passionate Software Developer based in the Greater Toronto Area, aiming to change the world via code! I'm extremely passionate about data science and machine learning, especially with respect to their applications in the sports analytics world.
 
 #### What I'm Currently working on ...
-- Completing my 3A term at the University of Waterloo!
+- Completing my 3B term at the University of Waterloo!
 - Refactoring older projects to improve their speed and efficiency
 
 #### I'm currently learning ...
@@ -12,16 +12,16 @@ I'm a passionate Software Developer based in the Greater Toronto Area, aiming to
 - I'm currently studying Computer Science at the University of Waterloo, with an expected graduation date of April 2025.
 
 #### Projects
-- Many of my projects are visible here on Github. Check out my repositories for more!
+- Many of my projects are visible here on GitHub. Check out my repositories for more!
 
-#### Oppurtunities
-- I am currently open to oppurtunities in the 2023 Summer Session (May - Aug), in either the software development or data analytics fields.  
-- A copy of my Resume is available [here](https://github.com/AliRZ-02/AliRZ-02/blob/main/Zaidi%2CAliRazaResume-2023-01-10.pdf)! - You'll have to download the file to be able to click the links.
+#### Opportunities
+- I am currently open to opportunities in the 2024 Winter Session (Jan - Apr), in either the software development or data analytics fields.  
+- A copy of my Resume is available [here](https://github.com/AliRZ-02/AliRZ-02/blob/main/Resume.pdf)! - You'll have to download the file to click the links.
 - I can be reached on [Linkedin](https://www.linkedin.com/in/ali-raza-zaidi/)!
 
 #### Personal
-- Thanks for getting all the way here! Here are just some of hobbies!
-- Hockey (🍁 Go Leafs Go 🍁) , Volleyball, Badminton, Zelda BOTW, Horizon Forbidden West, and many more! 😄
+- Thanks for getting all the way here! Here are just some of my hobbies!
+- Hockey (🍁 Go Leafs Go 🍁) , Volleyball, Badminton, Zelda TOTK, Horizon Forbidden West, and many more! 😄
 
 <!--
 **AliRZ-02/AliRZ-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
